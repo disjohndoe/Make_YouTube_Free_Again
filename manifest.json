@@ -1,0 +1,13 @@
+{
+    "manifest_version": 3,
+    "name": "Make YouTube Free Again",
+    "version": "1.0",
+    "description": "A Chrome extension that automatically removes YouTube Ads",
+    "permissions":["activeTab"],
+    "content_scripts": [
+      {
+        "matches": ["<all_urls>"],
+        "js": ["content.js"]
+      }
+    ]  
+}
