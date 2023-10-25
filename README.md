@@ -7,4 +7,7 @@ Simple Chrome extension that removes YouTube Ads
 <li>Clone the repo into the desired folder
 <li>Load up this folder via Chrome extensions and restart your browser and voila, enjoy YouTube without ads!
 </ul>
+<i>Please note: this extension will <b>not</b> remove all ads, only clickable ads.</i>
+<br/>
+<br/>
 <b>If you like it, please share and like, thank you</b>
